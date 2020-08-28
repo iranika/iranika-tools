@@ -1,0 +1,22 @@
+{
+    "homepage": "http://nanno.dip.jp/softlib/man/rlogin/",
+    "version": "2.25.4",
+    "license": "Copyright (c) 2017 Culti",
+    "architecture": {
+        "64bit": {
+            "url": "http://nanno.dip.jp/softlib/program/rlogin_x64.zip"
+        },
+        "32bit": {
+            "url": "http://nanno.dip.jp/softlib/program/rlogin.zip"
+        }
+    },
+    "bin": [
+        "RLogin.exe"
+    ],
+    "shortcuts": [
+        [
+            "RLogin.exe",
+            "SD-RLogin"
+        ]
+    ]
+}

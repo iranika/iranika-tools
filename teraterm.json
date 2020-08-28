@@ -1,0 +1,30 @@
+{
+    "homepage": "https://ja.osdn.net/projects/ttssh2/",
+    "version": "4.105",
+    "license": "(C) 2004-2019 TeraTerm Project",
+    "architecture": {
+        "64bit": {
+            "url": "https://ja.osdn.net/dl/ttssh2/teraterm-4.105.zip"
+        }
+    },
+    "extract_dir": "teraterm-4.105",
+    "bin": [
+        "ttermpro.exe",
+        "ttpmacro.exe",
+        "ttpmenu.exe"
+    ],
+    "shortcuts": [
+        [
+            "ttermpro.exe",
+            "SD TeraTerm"
+        ],
+        [
+            "ttpmenu.exe",
+            "SD TeraTerm Menu"
+        ],
+        [
+            "ttpmacro.exe",
+            "SD TeraTerm Macro"
+        ]
+    ]
+}
