@@ -1,0 +1,16 @@
+{
+    "homepage": "https://developers.cloudflare.com/argo-tunnel/downloads",
+    "version": "2.25.4",
+    "license": "Copyright (c) cloudflare",
+    "architecture": {
+        "64bit": {
+            "url": "https://bin.equinox.io/c/VdrWdbjqyF/cloudflared-stable-windows-amd64.zip"
+        },
+        "32bit": {
+            "url": "https://bin.equinox.io/c/VdrWdbjqyF/cloudflared-stable-windows-386.zip"
+        }
+    },
+    "bin": [
+        "cloudflared.exe"
+    ]
+}
