@@ -4,10 +4,10 @@
     "license": "Copyright (c) 2017 Culti",
     "architecture": {
         "64bit": {
-            "url": "http://nanno.dip.jp/softlib/program/rlogin_x64.zip"
+            "url": "http://nanno.bf1.jp/softlib/program/rlogin_x64.zip"
         },
         "32bit": {
-            "url": "http://nanno.dip.jp/softlib/program/rlogin.zip"
+            "url": "http://nanno.bf1.jp/softlib/program/rlogin.zip"
         }
     },
     "bin": [
